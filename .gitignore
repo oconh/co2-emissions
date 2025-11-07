@@ -1,0 +1,15 @@
+# Ignore data files
+data/
+*.csv
+
+# Jupyter & Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# VS Code settings
+.vscode/
+.env
