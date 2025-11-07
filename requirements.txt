@@ -1,0 +1,19 @@
+# Core
+pandas
+numpy
+
+# Visualization
+matplotlib
+plotly
+seaborn
+
+# Geospatial / Mapping
+geopandas
+pycountry
+
+# Notebook environment
+jupyter
+notebook
+
+# Regression/Clustering
+scikit-learn 
